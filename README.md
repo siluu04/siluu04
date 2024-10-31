@@ -13,7 +13,8 @@ Implementing a TwoDimensionalArray class with methods to handle row-wise and col
 
 # Test cases
 
-![image](https://github.com/user-attachments/assets/33ed0447-6367-4e9a-8e8a-a3092979efb8)
+![image](https://github.com/user-attachments/assets/6d5a621a-5d77-4a41-8660-e07a88f4fa84)
+
 
 
 
@@ -37,7 +38,8 @@ Write the runLengthEncoding method to perform RLE on an input string, compressin
 
 # Test cases
 
-![image](https://github.com/user-attachments/assets/993a37b9-ed06-412b-96ee-af273d49fe89)
+![image](https://github.com/user-attachments/assets/1b9b9fa8-56b3-4948-b3ce-3f4eedd3453c)
+
 
 
 
